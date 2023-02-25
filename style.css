@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    font-size: 18px;
+
+}
+
+.content-wrapper{
+    margin: 40px auto 0 auto;
+    display: flex;
+    background-color: #819F9B;
+    width: 450px;
+    padding: 20px 20px 20px 20px;
+    border-bottom: 6px solid #C78A2F ;
+    align-items: center;
+}
+
+.image{
+    width:200px;
+   
+}
+
+.personal-info {
+    margin: 20px 0 20px 20px;
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1{
+
+    margin-bottom: 20px;
+}
+
+p{
+    margin-bottom: 20px;
+}
